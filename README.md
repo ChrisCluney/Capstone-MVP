@@ -1,9 +1,10 @@
+# _Idea_
 
 
 A Crypto website where users can see how currencies are performing in real time and create an account to save their favorite ones.
 
 # MVP
-
+__________
 
 * Users can look over top performing cryptos in real time
 * Users can create an account and login
@@ -12,7 +13,7 @@ A Crypto website where users can see how currencies are performing in real time 
 
 
 # Pages
-
+__________
 
 * Login screen
 * Home Page
@@ -20,7 +21,7 @@ A Crypto website where users can see how currencies are performing in real time 
 * Favorite's Page
 
 # Database
-
+__________
 
 * Users
 * Favorites
